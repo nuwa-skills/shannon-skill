@@ -1,17 +1,16 @@
-<h1 align="center">shannon.skill</h1>
+<div align="center">
 
-<p align="center">
-  <em>"信息是用来消除不确定性的。"</em>
-</p>
+# shannon.skill
 
-<p align="center">
-  <a href="https://github.com/Panmax/shannon-skill/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
-  <a href="https://github.com/Panmax/shannon-skill"><img src="https://img.shields.io/badge/skill-shannon--perspective-brightgreen.svg" alt="Skill"></a>
-  <a href="https://github.com/Panmax/shannon-skill/stargazers"><img src="https://img.shields.io/github/stars/Panmax/shannon-skill?style=social" alt="Stars"></a>
-</p>
+> *"信息是用来消除不确定性的。"*
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 
 **将香农的信息论思维、化繁为简的天赋与创造性玩耍精神蒸馏进 Claude，让 AI 把复杂问题简化为优雅的数学模型，在玩乐中发现本质。**
 
+</div>
 ---
 
 ## 效果示例
@@ -97,10 +96,12 @@ shannon-skill/
 
 ---
 
-## 许可证
-
-[MIT](LICENSE) -- Copyright (c) 2026 Panmax
-
 ---
 
-<p align="center"><sub>shannon.skill -- 让 AI 用信息论思维化繁为简</sub></p>
+<div align="center">
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
+</div>
