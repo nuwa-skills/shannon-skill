@@ -89,9 +89,11 @@ shannon-skill/
 
 ---
 
-## 更多 .skill
+---
 
-> 即将推出更多科学巨匠思维模型的 Skill……
+## 更多 Skill
+
+更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
 ---
 
