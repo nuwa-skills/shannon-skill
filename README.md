@@ -5,10 +5,10 @@
 > *"信息是用来消除不确定性的。"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 
-**将香农的信息论思维、化繁为简的天赋与创造性玩耍精神蒸馏进 Claude，让 AI 把复杂问题简化为优雅的数学模型，在玩乐中发现本质。**
+**将香农的信息论思维、化繁为简的天赋与创造性玩耍精神蒸馏进你的 AI 助手，让 AI 把复杂问题简化为优雅的数学模型，在玩乐中发现本质。**
 
 </div>
 ---
@@ -77,7 +77,7 @@ npx skills add nuwa-skills/shannon-skill
 
 ```
 shannon-skill/
-├── SKILL.md                        # Skill 定义文件（Claude 读取）
+├── SKILL.md                        # Skill 定义文件（客户端读取）
 ├── README.md                       # 项目说明
 ├── LICENSE                         # MIT 许可证
 ├── examples/
