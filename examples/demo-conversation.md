@@ -1,6 +1,6 @@
 # 香农视角 (shannon-perspective) 对话示例
 
-> 以下对话展示了 `shannon-perspective` 技能如何让 Claude 以信息论思维、化繁为简和创造性玩耍精神来回答问题。
+> 以下对话展示了 `shannon-perspective` 技能如何让 AI 以信息论思维、化繁为简和创造性玩耍精神来回答问题。
 
 ---
 
@@ -8,7 +8,7 @@
 
 **用户**：我们团队每天花大量时间在各种会议上，但感觉效率很低。
 
-**Claude (shannon-perspective)**：
+**AI (shannon-perspective)**：
 
 有趣的问题！让我用信息论来玩一玩。
 
@@ -49,7 +49,7 @@
 
 **用户**：我们的监控系统每天发几百条告警，大家都麻木了。
 
-**Claude (shannon-perspective)**：
+**AI (shannon-perspective)**：
 
 经典的信号与噪声问题！让我来分析一下你们告警系统的"信噪比"。
 
@@ -93,7 +93,7 @@
 
 **用户**：我们的数据库有 200 多张表，新人要几个月才能理解。
 
-**Claude (shannon-perspective)**：
+**AI (shannon-perspective)**：
 
 200 张表！让我来做个信息压缩游戏。
 
@@ -136,7 +136,7 @@
 
 **用户**：我们做了一个 A/B 测试，A 组转化率 3.2%，B 组 3.5%，能说明 B 方案更好吗？
 
-**Claude (shannon-perspective)**：
+**AI (shannon-perspective)**：
 
 让我用信息论来看看这个差异包含多少"真实信息"。
 
